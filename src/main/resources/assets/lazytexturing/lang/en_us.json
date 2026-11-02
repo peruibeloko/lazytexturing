@@ -1,0 +1,13 @@
+{
+  "itemGroup.lazytexturing": "Example Mod Tab",
+  "block.lazytexturing.example_block": "Example Block",
+  "item.lazytexturing.example_item": "Example Item",
+
+  "lazytexturing.configuration.title": "Lazy Texturing Configs",
+  "lazytexturing.configuration.section.lazytexturing.common.toml": "Lazy Texturing Configs",
+  "lazytexturing.configuration.section.lazytexturing.common.toml.title": "Lazy Texturing Configs",
+  "lazytexturing.configuration.items": "Item List",
+  "lazytexturing.configuration.logDirtBlock": "Log Dirt Block",
+  "lazytexturing.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lazytexturing.configuration.magicNumber": "Magic Number"
+}
